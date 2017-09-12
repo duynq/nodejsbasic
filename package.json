@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-course",
+  "version": "1.0.0",
+  "description": "\"Learn Nodejs\"",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duynq/nodejsbasic.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "quangduyx188",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/duynq/nodejsbasic/issues"
+  },
+  "homepage": "https://github.com/duynq/nodejsbasic#readme",
+  "dependencies": {
+    "node-persist": "0.0.6"
+  }
+}
